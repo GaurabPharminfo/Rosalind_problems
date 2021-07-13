@@ -1,0 +1,2 @@
+# ignoring rosalind input files
+**/rosalind_*
